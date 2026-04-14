@@ -30,10 +30,10 @@ export default function AppNavigator() {
           
           return <Ionicons name={iconName as any} size={size} color={color} />;
         },
-        tabBarActiveTintColor: '#2e7d32',
+        tabBarActiveTintColor: '#1B5E20',
         tabBarInactiveTintColor: 'gray',
         headerStyle: {
-          backgroundColor: '#2e7d32',
+          backgroundColor: '#1B5E20',
         },
         headerTintColor: '#fff',
         headerTitleStyle: {
